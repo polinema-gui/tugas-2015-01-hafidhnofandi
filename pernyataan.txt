@@ -1,7 +1,7 @@
 Saya yang mempunyai identitas di bawah ini,
-NIM   : [NIM]
-Nama  : [nama-lengkap]
-Kelas : [kelas]
+NIM   : 1541183001
+Nama  : Hafidh Iman Nofandi
+Kelas : TI 2E
 
 Dengan ini menyatakan:
 

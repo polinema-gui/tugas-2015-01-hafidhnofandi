@@ -1,0 +1,20 @@
+C:\Users\Hafidh\AppData\Local\Temporary Projects\TugasBackgroundHafidh\bin\Debug\TugasBackgroundHafidh.exe.config
+C:\Users\Hafidh\AppData\Local\Temporary Projects\TugasBackgroundHafidh\bin\Debug\TugasBackgroundHafidh.exe
+C:\Users\Hafidh\AppData\Local\Temporary Projects\TugasBackgroundHafidh\bin\Debug\TugasBackgroundHafidh.pdb
+C:\Users\Hafidh\AppData\Local\Temporary Projects\TugasBackgroundHafidh\bin\Debug\TugasBackgroundHafidh.xml
+C:\Users\Hafidh\AppData\Local\Temporary Projects\TugasBackgroundHafidh\obj\Debug\TugasBackgroundHafidh.Form1.resources
+C:\Users\Hafidh\AppData\Local\Temporary Projects\TugasBackgroundHafidh\obj\Debug\TugasBackgroundHafidh.Resources.resources
+C:\Users\Hafidh\AppData\Local\Temporary Projects\TugasBackgroundHafidh\obj\Debug\TugasBackgroundHafidh.vbproj.GenerateResource.Cache
+C:\Users\Hafidh\AppData\Local\Temporary Projects\TugasBackgroundHafidh\obj\Debug\TugasBackgroundHafidh.exe
+C:\Users\Hafidh\AppData\Local\Temporary Projects\TugasBackgroundHafidh\obj\Debug\TugasBackgroundHafidh.xml
+C:\Users\Hafidh\AppData\Local\Temporary Projects\TugasBackgroundHafidh\obj\Debug\TugasBackgroundHafidh.pdb
+C:\Users\Hafidh\Documents\Visual Studio 2012\Projects\TugasBackgroundHafidh\TugasBackgroundHafidh\bin\Debug\TugasBackgroundHafidh.exe.config
+C:\Users\Hafidh\Documents\Visual Studio 2012\Projects\TugasBackgroundHafidh\TugasBackgroundHafidh\obj\Debug\TugasBackgroundHafidh.exe
+C:\Users\Hafidh\Documents\Visual Studio 2012\Projects\TugasBackgroundHafidh\TugasBackgroundHafidh\obj\Debug\TugasBackgroundHafidh.xml
+C:\Users\Hafidh\Documents\Visual Studio 2012\Projects\TugasBackgroundHafidh\TugasBackgroundHafidh\obj\Debug\TugasBackgroundHafidh.pdb
+C:\Users\Hafidh\Documents\Visual Studio 2012\Projects\TugasBackgroundHafidh\TugasBackgroundHafidh\bin\Debug\TugasBackgroundHafidh.exe
+C:\Users\Hafidh\Documents\Visual Studio 2012\Projects\TugasBackgroundHafidh\TugasBackgroundHafidh\bin\Debug\TugasBackgroundHafidh.pdb
+C:\Users\Hafidh\Documents\Visual Studio 2012\Projects\TugasBackgroundHafidh\TugasBackgroundHafidh\bin\Debug\TugasBackgroundHafidh.xml
+C:\Users\Hafidh\Documents\Visual Studio 2012\Projects\TugasBackgroundHafidh\TugasBackgroundHafidh\obj\Debug\TugasBackgroundHafidh.Form1.resources
+C:\Users\Hafidh\Documents\Visual Studio 2012\Projects\TugasBackgroundHafidh\TugasBackgroundHafidh\obj\Debug\TugasBackgroundHafidh.Resources.resources
+C:\Users\Hafidh\Documents\Visual Studio 2012\Projects\TugasBackgroundHafidh\TugasBackgroundHafidh\obj\Debug\TugasBackgroundHafidh.vbproj.GenerateResource.Cache
